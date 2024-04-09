@@ -26,3 +26,7 @@ Write a function that checks if a node is a leaf
 5. Is root
 
 Write a function that checks if a given node is a root
+
+6. Pre-order traversal
+
+Write a function that goes through a binary tree using pre-order traversal
