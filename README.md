@@ -22,3 +22,7 @@ Write a function that deletes an entire binary tree
 4. Is leaf
 
 Write a function that checks if a node is a leaf
+
+5. Is root
+
+Write a function that checks if a given node is a root
