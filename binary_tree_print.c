@@ -31,14 +31,14 @@ static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
 	if (depth && is_left)
 	{
 		for (i = 0; i < width + right; i++)
-		s[depth - 1][offset + left + width / 2 + i] = '-';
+			s[depth - 1][offset + left + width / 2 + i] = '-';
 		s[depth - 1][offset + left + width / 2] = '.';
 	}
 	else if (depth && !is_left)
 	{
 		for (i = 0; i < left + width; i++)
 			s[depth - 1][offset - width / 2 + i] = '-';
-			s[depth - 1][offset + left + width / 2] = '.';
+		s[depth - 1][offset + left + width / 2] = '.';
 	}
 	return (left + width + right);
 }
