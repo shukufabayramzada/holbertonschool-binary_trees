@@ -28,5 +28,5 @@ Team project based on binary trees
 ## Collaborators
 
 - [Shukufa Bayramzada](https://github.com/shukufabayramzada)
-- [Güane Mehralizade](https://github.com/Mehralizada)
+- [Gulane Mehralizade](https://github.com/Mehralizada)
 - [Farid Ismayilov](https://github.com/Fariidismail)
