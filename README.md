@@ -1,15 +1,20 @@
 # holbertonschool-binary_trees
 Team project based on binary trees
 
-Tasks
+## Tasks
+
+|    Task   |  Description   |
+|-----------|----------------|
+| [0-binary_tree_node](https://github.com/shukufabayramzada/holbertonschool-binary_trees/blob/main/0-binary_tree_node.c)| Write a function that creates a binary tree node |
+
 
 0. New node
 
-Write a function that creates a binary tree node
+   Write a function that creates a binary tree node
 
 1. Insert left
 
-Write a function that inserts a node as the left-child of another node
+   Write a function that inserts a node as the left-child of another node
 
 2. Insert right
 
